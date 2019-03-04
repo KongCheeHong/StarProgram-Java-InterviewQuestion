@@ -3,8 +3,8 @@ Basic interview question solved by Java
 
 Output: 
 
-*
-**
-***
-****
-*****
+# *
+# **
+# ***
+# ****
+# *****
